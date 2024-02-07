@@ -4,7 +4,7 @@ Nice to meet You! 😊
 My name is Gena Turkot, I am a Full Stack developer 🍔🥤
 
 I speak languages such as *JavaScript, HTML5 CSS3, C#, T-SQL*.
-Besides I love sport and sometimes I'm interested in going through OOP and Design Patterns villages 🏡 🐕‍🦺🚶‍♂️  
+Besides I love sport and sometimes I'm interested in going through *OOP* and *Design Patterns* villages 🏡 🐕‍🦺🚶‍♂️  
 
 Over the past few years, I have had the opportunity to dedicate my time 
 to improving and deepening my professional skills and knowledge, and 
