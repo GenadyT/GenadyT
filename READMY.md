@@ -1,5 +1,5 @@
-﻿Hey everyone and Full-Stack too, 
-Nice to meet You! 😊
+\textcolor{#264378{﻿Hey everyone and Full-Stack too, 
+Nice to meet You!} 😊
 
 My name is Gena Turkot, I am a Full Stack developer 🍔🥤
 
