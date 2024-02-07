@@ -13,7 +13,6 @@ during this process I have written code samples and arranged them into projects 
 In these projects, I tried to write down code fragments that could be useful 
 for my further development. And I systematized and published these codes
 in this cool GitHub repository 📚
-
 The projects’ themes are designed both for Front-And and Back-End.
 
 I would like to note that I will be very pleased if you will use these my works or will contribute to their gloss 💖 🙏
