@@ -1,5 +1,6 @@
 # <span style="color:#C55911;">Hey Everyone and Full-Stack too, Nice to meet You!</span> 😊
 ## <span style="color:#264378;">My name is </span><span style="color:#C00000;">Gena Turkot</span><span style="color:#264378;">, I am a Full Stack developer</span> 🍔🥤
+<br/>
 
 - I speak languages such as *JavaScript, HTML5 CSS3, C#, T-SQL*.
   Besides I love sport and sometimes I'm interested in going through *OOP* and *Design Patterns* villages 🏡 🐕‍🦺🚶‍♂️  
