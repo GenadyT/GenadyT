@@ -24,7 +24,7 @@
   *of subjects such as*
   *JavaScript (ES6 and later v.) · HTML5 · CSS3· C# 10 and .NET 6 · OOP · 
   Design Patterns · Responsive Web · CSS Organize · Sass CSS · Web Components · MS Azure · RegEx.* 
-  *and you are Welcome to have a look in this my [theoretical-studying-repository](https://drive.google.com/drive/folders/1_yyssV9WhXAHwaQ-oSVjc3FBtrFyQM2F) )*
+  *and you are Welcome to have a look in this my [professional knowledge repository](https://drive.google.com/drive/folders/1_yyssV9WhXAHwaQ-oSVjc3FBtrFyQM2F) )*
 
 <br />
 
