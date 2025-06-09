@@ -52,6 +52,7 @@ _And more roles in cybersecurity tools, education, and insurance — all sharpen
 
 ## 🤝 Let’s Connect
 
+📞 +972 54-5501199  
 📬 [genadyt@protonmail.com](mailto:genadyt@protonmail.com)  
 🔗 [linkedin.com/in/gennady-turkot](https://www.linkedin.com/in/gennady-turkot)
 
