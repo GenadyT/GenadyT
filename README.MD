@@ -38,7 +38,7 @@ Led key improvements to legacy systems, integrated responsive web design and UI 
 **🏦 Bank Leumi** (2008–2013)  
 Built secure internal tools for document handling with ASP.NET and FileNet, improving efficiency across departments.
 
-_And more roles in cybersecurity, education, and insurance — all sharpening my skills along the way!_
+_And more roles in cybersecurity tools, education, and insurance — all sharpening my skills along the way!_
 
 ---
 
