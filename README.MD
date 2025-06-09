@@ -31,6 +31,10 @@ SQL Server · MySQL · Azure · FileNet P8
 
 **💼 Freelance Developer** (2021–Now)  
 Creating and maintaining SEO-optimized marketing websites — from concept to deployment. I handle everything: design, development, hosting, and performance tuning.
+Here are some of my web projects:
+
+- 🛍️ [E-commerce Project](https://boostyrtime.com/)
+- 🛍️ [E-commerce Project](https://sestierihotels.com/)
 
 **🏢 Israel Land Authority** (2016–2021)  
 Led key improvements to legacy systems, integrated responsive web design and UI libraries, and collaborated closely with stakeholders to define system goals.
