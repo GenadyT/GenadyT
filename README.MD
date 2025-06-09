@@ -33,7 +33,7 @@ SQL Server · MySQL · Azure · FileNet P8
 Creating and maintaining SEO-optimized marketing websites — from concept to deployment. I handle everything: design, development, hosting, and performance tuning.
 
 **🏢 Israel Land Authority** (2016–2021)  
-Led key improvements to legacy systems, integrated responsive design and UI libraries, and collaborated closely with stakeholders to define system goals.
+Led key improvements to legacy systems, integrated responsive web design and UI libraries, and collaborated closely with stakeholders to define system goals.
 
 **🏦 Bank Leumi** (2008–2013)  
 Built secure internal tools for document handling with ASP.NET and FileNet, improving efficiency across departments.
