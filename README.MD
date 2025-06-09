@@ -17,7 +17,7 @@ Welcome to my corner of GitHub! I'm a Full-Stack Developer from Haifa, Israel �
 ## 🛠️ My Toolbox
 
 **Front-End**  
-React · JavaScript (ES6+) · HTML5 · CSS3 · jQuery · Responsive Design
+React · JavaScript (ES6+) · HTML5 · CSS3 · jQuery · Responsive Web Design
 
 **Back-End**  
 C# · ASP.NET Core / Web API · Node.js · OOP · Design Patterns · WinForms
