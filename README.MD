@@ -1,40 +1,58 @@
+# 👋 Hey there, I’m Gennady Turkot
 
-# <span style="color:#C55911;">Hey Everyone and Full-Stack too, Nice to meet You!</span> 😊
-### <span style="color:#264378;">My name is </span><span style="color:#C00000;">Gena Turkot</span><span style="color:#264378;">, I am a Full Stack 🍔 developer</span>
-<br>
+Welcome to my corner of GitHub! I'm a Full-Stack Developer from Haifa, Israel 🇮🇱 with a strong passion for crafting clean, responsive, and meaningful web applications. Whether it’s front-end finesse or back-end logic, I enjoy turning ideas into working software that people love to use.
 
-- I speak languages such as *JavaScript, HTML5 CSS3, C#, T-SQL*.
-  Besides I love sport and sometimes I'm interested in going through *OOP* and *Design Patterns* villages 🏡 🐕‍🦺🚶‍♂️  
+---
 
-- Over the past few years, I have had the opportunity to dedicate my time 
-  to improving and deepening my professional skills and knowledge, and 
-  during this process I have written code samples and arranged them into projects 📝
+## 💡 About Me
 
-- In these projects, I tried to write down code fragments that could be useful 
-  for my further development. And I systematized and published these codes
-  in this cool GitHub repository 📚
-  The projects’ themes are designed both for Front-And and Back-End.
+- 🧑‍💻 Over 10 years of hands-on experience building full-stack solutions  
+- ⚙️ Skilled in both classic technologies (like C#/.NET) and modern tools (React, Node.js)  
+- 🌍 Strong focus on responsive design, usability, and maintainable code  
+- 🎯 Love solving real-world problems with clean, scalable code  
+- 🧠 Always learning — from React and Angular to design patterns and cloud deployment  
 
-- I would like to note that I will be very pleased if you will use these my works or will contribute to their gloss 💖 🙏
+---
 
-<br />
+## 🛠️ My Toolbox
 
+**Front-End**  
+React · JavaScript (ES6+) · HTML5 · CSS3 · jQuery · Bootstrap · Sass · Responsive Design
 
-  *( In addition, I summarized and systematized my educational notes in* 
-  *a public repository 📚, and these notes provide a theoretical summary* 
-  *of subjects such as*
-  *JavaScript (ES6 and later v.) · HTML5 · CSS3· C# 10 and .NET 6 · OOP · 
-  Design Patterns · Responsive Web · CSS Organize · Sass CSS · Web Components · MS Azure · RegEx.* 
-  *and you are Welcome to have a look in this my [professional knowledge repository](https://drive.google.com/drive/folders/1_yyssV9WhXAHwaQ-oSVjc3FBtrFyQM2F) )*
+**Back-End**  
+C# · ASP.NET Core / Web API · Node.js · OOP · Design Patterns · WinForms
 
-<br />
+**Databases & Tools**  
+SQL Server · MySQL · MongoDB · Azure · FileNet P8 · Crystal Reports · Git · Chrome DevTools
 
-*Regards,*
+---
 
-*Gena Turkot,*
+## 📌 Work I’m Proud Of
 
-*genadyt@protonmail.com*
+**💼 Freelance Developer** (2021–Now)  
+Creating and maintaining SEO-optimized marketing websites — from concept to deployment. I handle everything: design, development, hosting, and performance tuning.
 
-[*LinkedIn Profile*](https://www.linkedin.com/in/gena-turkot-1557373a/)
+**🏢 Israel Land Authority** (2016–2021)  
+Led key improvements to legacy systems, integrated responsive design and UI libraries, and collaborated closely with stakeholders to define system goals.
 
+**🏦 Bank Leumi** (2008–2013)  
+Built secure internal tools for document handling with ASP.NET and FileNet, improving efficiency across departments.
 
+_And more roles in cybersecurity, education, and insurance — all sharpening my skills along the way!_
+
+---
+
+## 🎓 Lifelong Learner
+
+- B.A. in Business Administration – Ruppin Academic Center  
+- Practical Engineer Diploma – Technion (Haifa)  
+- Dozens of recent courses in React, Angular, .NET 6, Design Patterns, Regex, and more 🚀
+
+---
+
+## 🤝 Let’s Connect
+
+📬 [genadyt@protonmail.com](mailto:genadyt@protonmail.com)  
+🔗 [linkedin.com/in/gennady-turkot](https://www.linkedin.com/in/gennady-turkot)
+
+Thanks for stopping by! 👋 Feel free to explore my repositories — I’m always open to new ideas, feedback, and opportunities to collaborate.
