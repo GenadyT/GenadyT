@@ -17,13 +17,13 @@ Welcome to my corner of GitHub! I'm a Full-Stack Developer from Haifa, Israel �
 ## 🛠️ My Toolbox
 
 **Front-End**  
-React · JavaScript (ES6+) · HTML5 · CSS3 · jQuery · Bootstrap · Sass · Responsive Design
+React · JavaScript (ES6+) · HTML5 · CSS3 · jQuery · Responsive Design
 
 **Back-End**  
 C# · ASP.NET Core / Web API · Node.js · OOP · Design Patterns · WinForms
 
 **Databases & Tools**  
-SQL Server · MySQL · MongoDB · Azure · FileNet P8 · Crystal Reports · Git · Chrome DevTools
+SQL Server · MySQL · Azure · FileNet P8
 
 ---
 
