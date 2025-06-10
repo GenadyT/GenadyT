@@ -35,7 +35,7 @@ Here are some of my web projects:
 - 🛍️ [men's wrist watches e-commerce website](https://boostyrtime.com/)
 - 🛍️ [Venice hotels e-commerce website](https://sestierihotels.com/)<br>
 
-Creating and publishing open-source projects on GitHub using JavsScript, HTML5, CSS3, jQuery, C#, Design Patterns.<br>
+Creating and publishing open-source projects on GitHub using JavsScript, HTML5, CSS3, jQuery, C#, Design Patterns.  
 GitHub: [github.com/GenadyT](https://github.com/GenadyT?tab=repositories&q=&type=public&language=&sort=)
 
 **🏢 Israel Land Authority** (2016–2021)  
